@@ -8,8 +8,8 @@ Il s'agit d'un site e-commerce integrer avec du html uniquement
 
 ## Installation:
 Pour intaller le projet vous devez:
-- cloner le repository via le lien ssh ou http (Faire un git clone lien_ssh/http_)
-- ouvrir le projet dans votre editeur de code et le lancer sur le serveur local de votre pc pour l'utiliser
+- Cloner le repository via le lien ssh ou http (Faire un git clone lien_ssh/http_)
+- Ouvrir le projet dans votre editeur de code et le lancer sur le serveur local de votre pc pour l'utiliser
 
 ## Demarrage:
 - Ouvrir le fichier index.html dans votre navigateur 
