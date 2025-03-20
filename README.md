@@ -1,7 +1,7 @@
 # My Shop
 
 ## Description du projet:
-Il s'agit d'un site e-commerce integrer avec du html uniquement 
+Il s'agit d'un site e-commerce integrer avec du HTML, du Javascript et du Tailwindcss uniquement 
 
 ## Aperçu Visuel
 ![Aperçu](./images/capture.png)
